@@ -135,7 +135,7 @@
                                     <tag>Xml</tag>
                                 </tags>
                                 <title>Xml Transformation</title>
-                                <supportUrl>${pom.issueManagement.url}</supportUrl>
+                                <supportUrl>${project.issueManagement.url}</supportUrl>
                                 <supportSummary>Support provided through community involvement.</supportSummary>
                             </configuration>
                         </execution>
